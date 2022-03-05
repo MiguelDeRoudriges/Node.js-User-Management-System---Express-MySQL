@@ -1,6 +1,6 @@
 # Node.js-User-Management-System---Express-MySQL
 
-##Create .env file
+## Create .env file
 
 Create a .env file to store your database credentials
 
